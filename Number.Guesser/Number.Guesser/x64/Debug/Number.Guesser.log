@@ -1,0 +1,4 @@
+﻿  Number.Guesser.cpp
+D:\Robert\C++\Visual Studio\Jocuri\Number.Guesser\Number.Guesser\Number.Guesser.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Robert\C++\Visual Studio\Jocuri\Number.Guesser\Number.Guesser\Number.Guesser.cpp(40,6): warning C4102: 'std': unreferenced label
+  Number.Guesser.vcxproj -> D:\Robert\C++\Visual Studio\Jocuri\Number.Guesser\x64\Debug\Number.Guesser.exe
